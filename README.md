@@ -1,2 +1,1 @@
-FIRST git EXERCISE
-quite AWESOME
+Booya
