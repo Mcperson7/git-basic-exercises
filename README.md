@@ -1,1 +1,2 @@
 FIRST git EXERCISE
+quite AWESOME
